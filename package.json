@@ -67,6 +67,7 @@
     "eslint-plugin-wordpress": "^0.1.0",
     "eslint-plugin-xss": "^0.1.8",
     "glob": "^7.0.6",
+    "json-stable-stringify": "^1.0.1",
     "prettier": "^1.2.2",
     "typescript": "^2.5.3",
     "typescript-eslint-parser": "^9.0.1"
